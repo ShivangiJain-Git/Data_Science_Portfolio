@@ -10,47 +10,47 @@ You can also browse my portfolio [shivangijain.com](https://shivangijain666.wixs
 
 - ### Machine Learning 
 
-- #### Micro Projects
+- ##### Micro Projects
 	 
-	 1. Supervised Learning	
-		- Regression
-			- Linear Regression
+		1. Supervised Learning
+			- Regression
+				- Linear Regression
 					
-		- Classification
-			- Logistic Regression
-			- KNN
-			- Naive Bayes 
-			- SVM
+			- Classification
+				- Logistic Regression
+				- KNN
+				- Naive Bayes 
+				- SVM
 					
-	2. Ensemble Tecniques 	
-	        - Decision Tree Classifier
-			- RandomForest Classifier
-			- Adaboost Ensemble Tecnique
-			- Bagging classifier
-			- GradientBoosting Classifier
+		2. Ensemble Tecniques	
+				- Decision Tree Classifier
+				- RandomForest Classifier
+				- Adaboost Ensemble Tecnique
+				- Bagging classifier
+				- GradientBoosting Classifier
 			
-	3. Unsupervised Learning	
-			- KMeans Clustering
-			- Hierarchical Clustering
-			- PCA (Pricipal Component Analysis)
+		3. Unsupervised Learning
+				- KMeans Clustering
+				- Hierarchical Clustering
+				- PCA (Pricipal Component Analysis)
 			
-	4. Feature Tuning	
-			- Bootstrapping
-			- KFold Cross validation
-			- LOOCV 
-			- Pipeline
-			- Gridsearch CV
-			- Randomsearch CV
-			- Lasso and Ridge regularization
+		4. Feature Tuning
+				- Bootstrapping
+				- KFold Cross validation
+				- LOOCV 
+				- Pipeline
+				- Gridsearch CV
+				- Randomsearch CV
+				- Lasso and Ridge regularization
 			
-	5. EDA techniques
-			- Basic EDA
-			- Normalizing and Encoding data
-			- Missing value , Outlier treatment
-			- Univariate Analysis
-			- Multivariate Analysis
+		5. EDA techniques
+				- Basic EDA
+				- Normalizing and Encoding data
+				- Missing value , Outlier treatment
+				- Univariate Analysis
+				- Multivariate Analysis
 			
-	6. Applied Statistics
+		6. Applied Statistics
 				- Basic statistics
     
 - #### Tools
