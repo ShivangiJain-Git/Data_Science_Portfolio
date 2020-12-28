@@ -59,7 +59,7 @@ You can also browse my portfolio [shivangijain.com](https://shivangijain666.wixs
 	- [Supervised Learning: Bank Loan Prediction](https://github.com/ShivangiJain-Git/Major_Projects/tree/main/Supervised_Learning) : Building various classification models to predict the likelihood of a liability customer buying personal loans.
 	- [Ensemble Technique:Parkinson's Disease Prediction](https://github.com/ShivangiJain-Git/Major_Projects/tree/main/Ensemble_Technique) : Applying different ensemble techniques and supervised algorithms to classify the patients into the respective labels using the attributes from their voice recordings.
 	- [Unsupervised Learning:Object Recognition](https://github.com/ShivangiJain-Git/Major_Projects/tree/main/Unsupervised_Learning ) : Analyzing features extracted from the silhouette of vehicles of different types and  to classify a given silhouette as one of three types of vehicle, using a set of features extracted from the silhouette. The vehicle may be viewed from one of many different angles to identify the type of it.
-	- [Feature Model tuning: Cement Manufacturing](https://github.com/ShivangiJain-Git/Major_Projects/tree/main/Feature_tuning) : Fine tuning various ML algorithms based extratcted hyperparameter.
+	- [Feature Model tuning: Cement Manufacturing](https://github.com/ShivangiJain-Git/Major_Projects/tree/main/Feature_tuning) : Fine tuning various ML algorithms hyperparameters and analyzing which gives the best result.
     
 - #### Tools
      scikit-learn, Pandas, Seaborn, Matplotlib, Numpy
