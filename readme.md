@@ -2,7 +2,7 @@
 
 This Repository contains portfolio of data science projects completed by me for upskilling, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
 
-You can also browse my portfolio [shivangijain.com]
+You can also browse my portfolio [shivangijain.com](https://shivangijain666.wixsite.com/shivangi-jain)
 
 #### Please find overview of my projects below: 
 
